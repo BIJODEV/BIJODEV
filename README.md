@@ -26,11 +26,19 @@ I am a **Senior Security Software Engineer** (10+ years) with a passion for buil
 
 ---
 
-### 🧪 What I'm Building (Security as Code)
+### 🧪 What I'm Building
+
+ #### 🛡️ Security as Code
 
 * **[Autonomous Edge Defense](https://bijodev.github.io/Adaptive-Profiler-Demo/):** A distributed learning system using Cloudflare Workers and D1 to perform real-time behavioral traffic baselining.
 * **[CRS Rule Intelligence](https://crs-rule-lookup.onrender.com/):** A diagnostic SPA that deconstructs complex regex patterns to reduce developer MTTU for security events.
 * **[Global Resilience Blueprint](https://github.com/BIJODEV/my-profile):** An interactive DR roadmap built with React Flow to visualize failover dependencies during global infrastructure outages.
+
+  #### 🌐 Full-Stack System Engineering (Community Impact)
+* **[KnowUrChurch.com](https://knowurchurch.com):** A production-ready SaaS platform for community management. 
+  * **Full-Stack Ownership:** Architected end-to-end using React, Node.js, and Supabase.
+  * **Security & Features:** Implemented Google OAuth 2.0, RBAC, Razorpay payment integration, and Cloudinary-backed media optimization.
+  * **Scale:** Designed as a multi-tenant system allowing churches to register via unique "Church Codes" for independent church management.
 
   
 ## 🌐 Socials:
