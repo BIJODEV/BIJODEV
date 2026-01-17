@@ -29,7 +29,7 @@ I am a **Senior Security Software Engineer** (10+ years) with a passion for buil
 ### 🧪 What I'm Building (Security as Code)
 
 * **[Autonomous Edge Defense](https://bijodev.github.io/Adaptive-Profiler-Demo/):** A distributed learning system using Cloudflare Workers and D1 to perform real-time behavioral traffic baselining.
-* **[CRS Rule Intelligence](https://github.com/BIJODEV/crs-rule-lookup-project):** A diagnostic SPA that deconstructs complex regex patterns to reduce developer MTTU for security events.
+* **[CRS Rule Intelligence](https://crs-rule-lookup.onrender.com/):** A diagnostic SPA that deconstructs complex regex patterns to reduce developer MTTU for security events.
 * **[Global Resilience Blueprint](https://github.com/BIJODEV/my-profile):** An interactive DR roadmap built with React Flow to visualize failover dependencies during global infrastructure outages.
 
   
