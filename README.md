@@ -1,7 +1,36 @@
-# 💫 About Me:
-I am a Senior Cloud Security Architect with over a decade of experience securing global-scale ecosystems for industry giants like IBM and Walmart. My philosophy is simple: Security should be an enabler, not a roadblock. > My journey has taken me from a Security Data Scientist at Walmart—where I taught myself Pandas and NumPy to build custom bot-fingerprinting hashes—to serving as the Solo Subject Matter Expert (SME) for IBM’s global Cloudflare infrastructure. I thrive in high-stakes environments, whether I'm influencing a vendor’s product roadmap to support enterprise protocols like gRPC or architecting interactive Disaster Recovery blueprints using React Flow to guide leadership through global outages.<br><br>What sets me apart? I am a builder. I don’t just manage firewalls; I engineer distributed systems at the edge to automate threat detection. From winning the IBM OTAA for WAF diagnostics to being published by the Innovation Center for my work on Adaptive Profiling, I am committed to advancing the field of "Security as Code."<br><br>I am always looking for the next complex architectural challenge where I can build the "paved roads" that allow developers to move fast while staying inherently secure.
+# 🛡️ Bijo Dev | Senior Cloud Security Engineer
 
+**Architecting "Paved Road" Security for Global Enterprise Scale**
 
+I am a **Senior Security Software Engineer** (10+ years) with a passion for building automated, observable, and high-performance security tooling at the edge. I specialize in bridging the gap between rigorous security standards and developer velocity.
+
+---
+
+### 🚀 Technical Impact at a Glance
+
+* **IBM Outstanding Technical Achievement Award (OTAA):** Recognized for engineering the **CRS Rule Intelligence** engine to correlate WAF signatures with payload telemetry.
+* **IBM Innovation Center Publication:** Authored and published research on **Adaptive Profiling**, a distributed edge-learning system for behavioral threat detection.
+* **Walmart Excellence Award:** Pioneered **Header-Order Hash Fingerprinting** using Python Data Science (Pandas/NumPy) to mitigate 30% of sophisticated bot traffic.
+* **Solo SME Leadership:** Directed the global Cloudflare migration for 90+ mission-critical applications at SoftwareAG (acquired by IBM).
+
+---
+
+### 🛠️ My Technical Arsenal
+
+| Category | Technologies |
+| :--- | :--- |
+| **Edge & AppSec** | Cloudflare (Workers, D1, KV), Akamai, F5 ASM (Certified), Zero Trust (mTLS), Bot Mitigation |
+| **Infrastructure** | Kubernetes (ROSA), AWS (Athena, S3, NLB), Serverless Architecture, Load Balancers (LTM/GTM) |
+| **Engineering** | JavaScript (React, Node.js), Python (Pandas, NumPy, Matplotlib), SQL, PowerShell (IaC) |
+| **Observability** | Splunk (Advanced Querying), Grafana, QRadar, React Flow (Architecture Visualization) |
+
+---
+
+### 🧪 What I'm Building (Security as Code)
+
+* **[Autonomous Edge Defense](https://bijodev.github.io/Adaptive-Profiler-Demo/):** A distributed learning system using Cloudflare Workers and D1 to perform real-time behavioral traffic baselining.
+* **[CRS Rule Intelligence](https://github.com/BIJODEV/crs-rule-lookup-project):** A diagnostic SPA that deconstructs complex regex patterns to reduce developer MTTU for security events.
+* **[Global Resilience Blueprint](https://github.com/BIJODEV/my-profile):** An interactive DR roadmap built with React Flow to visualize failover dependencies during global infrastructure outages.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BIJODEV) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@BIJODEV) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bijodev1@gmail.com) 
 
