@@ -6,7 +6,7 @@ I am a **Senior Security Software Engineer** (10+ years) with a passion for buil
 
 ---
 
-### 🚀 Technical Impact at a Glance
+### 🚀 Technical Impact
 
 * **IBM Outstanding Technical Achievement Award (OTAA):** Recognized for engineering the **CRS Rule Intelligence** engine to correlate WAF signatures with payload telemetry.
 * **IBM Innovation Center Publication:** Authored and published research on **Adaptive Profiling**, a distributed edge-learning system for behavioral threat detection.
@@ -31,6 +31,8 @@ I am a **Senior Security Software Engineer** (10+ years) with a passion for buil
 * **[Autonomous Edge Defense](https://bijodev.github.io/Adaptive-Profiler-Demo/):** A distributed learning system using Cloudflare Workers and D1 to perform real-time behavioral traffic baselining.
 * **[CRS Rule Intelligence](https://github.com/BIJODEV/crs-rule-lookup-project):** A diagnostic SPA that deconstructs complex regex patterns to reduce developer MTTU for security events.
 * **[Global Resilience Blueprint](https://github.com/BIJODEV/my-profile):** An interactive DR roadmap built with React Flow to visualize failover dependencies during global infrastructure outages.
+
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BIJODEV) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@BIJODEV) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bijodev1@gmail.com) 
 
