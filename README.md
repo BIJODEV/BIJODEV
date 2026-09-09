@@ -1,8 +1,8 @@
-# 🛡️ Bijo Dev | Senior Cloud Security Engineer
+# 🛡️ Bijo Dev | Edge Security Solutions Engineer
 
 **Architecting "Paved Road" Security for Global Enterprise Scale**
 
-I am a **Senior Security Software Engineer** (10+ years) with a passion for building automated, observable, and high-performance security tooling at the edge. I specialize in bridging the gap between rigorous security standards and developer velocity.
+I am an **Edge Security Solutions Engineer** (11+ years) specializing in Cloudflare — Workers, D1, KV, Zero Trust — with a passion for building automated, observable, and high-performance security tooling at the edge. I specialize in bridging the gap between rigorous security standards and developer velocity, and in translating enterprise-grade edge security into practitioner-facing tools.
 
 ---
 
@@ -12,6 +12,8 @@ I am a **Senior Security Software Engineer** (10+ years) with a passion for buil
 * **IBM Innovation Center Publication:** Authored and published research on **Adaptive Profiling**, a distributed edge-learning system for behavioral threat detection.
 * **Walmart Excellence Award:** Pioneered **Header-Order Hash Fingerprinting** using Python Data Science (Pandas/NumPy) to mitigate 30% of sophisticated bot traffic.
 * **Solo SME Leadership:** Directed the global Cloudflare migration for 90+ mission-critical applications at SoftwareAG (acquired by IBM).
+* **FlareSight:** Built a 105-zone Cloudflare GraphQL analytics dashboard, including a Threat Deep Dive module that correlates attacks across WHO/WHAT/HOW/RESULT/WHEN with live Cloudflare rule metadata.
+* **OriginError ([originerror.com](https://originerror.com)):** Founder-led Cloudflare/site diagnostics platform — combines an HTTP/Cloudflare error-code diagnostic engine, a site health scanner, and a browser fingerprint checker, built on Cloudflare Workers, D1, and KV.
 
 ---
 
